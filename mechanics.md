@@ -1,6 +1,8 @@
 # Mechanics 
 The four-square cipher uses four 5 by 5 (5x5) matrices arranged in a square. Each of the 5 by 5 matrices contains the letters of the alphabet.
 In general, the upper-left and lower-right matrices are the "plaintext squares" and each contain a standard alphabet. The upper-right and lower-left squares are the "ciphertext squares" and contain a mixed alphabetic sequence.
+
+
 **Encryption and Decryption**
 To encrypt a message is the same as decrypting it execpt doing the proccess in reverse. 
 Let's say the word we are trying to encrpyt is Hello World.
