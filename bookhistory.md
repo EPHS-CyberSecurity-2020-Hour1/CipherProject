@@ -2,4 +2,6 @@
 ## By Sarah Sumrall and Sudeeksha Nooka
 
 #### Introduction
-  Even though, we don't know much about the Book Cipher's origin - we know it is one of the most popular types of ciphers used thorughout the centuries. 
+  Even though, we don't know much about the Book Cipher's origin - we know it is one of the most popular types of ciphers used throughout the middle to modern centures. However, it got its name from being used to pass messages between morally debatable individuals through books. 
+#### Key information
+  The book cipher key is some aspect of the individual book. It could be the book edition, the font of the text, or individual pages of the book. The use of literature - being common and widely available in modern times, was more convenient for this use than objects made specifically for cryptographic purposes. According to a source: "Traditionally book ciphers work by replacing words in the plaintext of a message with the location of words from the book being used. In this mode, book ciphers are more properly called codes."
