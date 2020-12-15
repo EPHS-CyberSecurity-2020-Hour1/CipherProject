@@ -13,12 +13,12 @@
    1. Here we will use a few lines of Polonius’s advice as our key. Let's start by defining the key index as 3:13, meaning the first character we could possibly encode is the thirteenth character of the third line. 
    
    ![picture 1 of Polonius's advice](https://sites.google.com/site/brutenorhuman/_/rsrc/1472689476287/book-cipher/Example1.png)                                      
-    2. Next we need to search our key for the letters that correspond to the letters in the message. Here’s a visualization of the search process for just the first word. 
+   2. Next we need to search our key for the letters that correspond to the letters in the message. Here’s a visualization of the search process for just the first word. 
    
    ![picture 2 of Polonius's advice](https://sites.google.com/site/brutenorhuman/_/rsrc/1472689480337/book-cipher/Example2.png)                                       
-    3. Each character is encoded according to its line number and character (line number:character). For instance, the Capital N character is found in the fourth line as the second character, and will be encoded as 4:2. Following this procedure the entire first word becomes 4:2 3:15 3:18 3:13 3:14 3:22 3:30.                                
+   3. Each character is encoded according to its line number and character (line number:character). For instance, the Capital N character is found in the fourth line as the second character, and will be encoded as 4:2. Following this procedure the entire first word becomes 4:2 3:15 3:18 3:13 3:14 3:22 3:30.                                
    ![picture 3 of Polonius's advice](https://sites.google.com/site/brutenorhuman/_/rsrc/1472689476559/book-cipher/Example3.png)                                      
-    4. Here are the selected indices for the messages remaining characters. The coded message will appear in all numbers. If the character is not given in the key, when decoded it will output pound sign (#). 
+   4. Here are the selected indices for the messages remaining characters. The coded message will appear in all numbers. If the character is not given in the key, when decoded it will output pound sign (#). 
    
    ![picture 4 of Polonius's advice](https://sites.google.com/site/brutenorhuman/_/rsrc/1472689476800/book-cipher/Example4.png)
    
