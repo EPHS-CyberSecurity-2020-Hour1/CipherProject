@@ -8,6 +8,7 @@
    * Encrypt Spaces: Give the whitespace in the original message corresponding index references in the ciphertext; this will also cut down on the size of the ciphertext.
    * Ignore Case: Make sure that case doesn't matter, so the key will match characters regardless of case. This will preserve the text when the message includes capitals, since they might not be found in the key. 
    * Example Implementation
+   
    1. Here we will use a few lines of Polonius’s advice as our key. Let's start by defining the key index as 3:13, meaning the first character we could possibly encode is the thirteenth character of the third line. 
    
    ![picture 1 of Polonius's advice](https://sites.google.com/site/brutenorhuman/_/rsrc/1472689476287/book-cipher/Example1.png)                                      
