@@ -1,0 +1,16 @@
+<h1>
+Caeser Cipher
+<h1>
+This cipher is named after Julius Caesar, and according to his biographies he used it for military communications. His version of it shifted the letters 3 spaces 
+over, so that "E" would become "H" when encrypting, and the reverse while decrypting.In modern times this cipher is considered simple and unsafe. However, it was 
+likely very effective during the time period, seeing as most of Caesar's enemies were illiterate and didn't know the key yet. Breakable as it is, the cipher is 
+still being used today, albeit not for legitimate security purposes. It can be found in games, puzzles, and also newspapers.
+
+
+
+
+
+
+>Sources:
+>https://ghostvolt.com/articles/cryptography_history.html
+>https://www.secplicity.org/2017/05/25/historical-cryptography-ciphers/
