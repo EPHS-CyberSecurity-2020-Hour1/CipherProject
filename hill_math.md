@@ -9,3 +9,7 @@
 
 ## Mathmatical Complexity
 ### If you have prior knowledge of cracking ciphers, or a lot of free time, you could probably crack this by hand. However, when using a software to help you, you will most likely for sure crack the cipher.
+
+## Sources
+[NKU](https://www.nku.edu/~christensen/092mat483%20hill%20cipher.pdf)
+[GeeksForGeeks](https://www.geeksforgeeks.org/hill-cipher/)
