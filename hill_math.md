@@ -7,4 +7,5 @@
 ## Can I Decode it Myself With No Key?
 ### The simple answer: __Yes__. Cracking it by hand may be quite difficult, unless you have prior knowledge of decoding other ciphers. The best way you can crack one of these is to use one of the softwares I mentioned earlier (*MAPLE* and *CrypTool 1.4*). These are your best bet to crack this code- as it's not the most complex cipher.
 
-##
+## Mathmatical Complexity
+### If you have prior knowledge of cracking ciphers, or a lot of free time, you could probably crack this by hand. However, when using a software to help you, you will most likely for sure crack the cipher.
