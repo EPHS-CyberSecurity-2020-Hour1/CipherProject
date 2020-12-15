@@ -14,7 +14,9 @@ Let's say the word we are trying to encrpyt is Hello World.
 4. The first letter of the encrypted digraph is in the same row as the first plaintext letter and the same column as the second plaintext letter. It is therefore in the upper-right ciphertext matrix.
 5. The second letter of the encrypted digraph is in the same row as the second plaintext letter and the same column as the first plaintext letter. It is therefore in the lower-left ciphertext matrix.
 
+![4 square cipher](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcrypto.interactive-maths.com%2Ffour-square-cipher.html&psig=AOvVaw3zGgV0vpjTnpqhm7kmyqnP&ust=1608130368177000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjv9tGe0O0CFQAAAAAdAAAAABAJ)
 
+Using the four-square example given above, we can encrypt the following plaintext:
 
 Plaintext:  he lp me ob iw an ke no bi
 Ciphertext: FY GM KY HO BX MF KK KI MD
