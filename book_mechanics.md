@@ -1,9 +1,9 @@
 ###### Mechanics
-## * How does the cipher work?
+## How does the cipher work?
    * main strength of a book cipher is the key
    * sender and receiver of encoded messages can agree to use any book or other publication available to both of them as the key to their cipher
    * drawback to a book cipher is that both parties have to possess an identical copy of the key
-## * Demo of encryption and decryption
+## Demo of encryption and decryption
    * Key Index: Use a specific text (book) to specify the starting point of your key for encoding. After you choose the spot in the text, it is important to remember that the final ciphertext will not include any index references that are before this point. 
    * Encrypt Spaces: Give the whitespace in the original message corresponding index references in the ciphertext; this will also cut down on the size of the ciphertext.
    * Ignore Case: Make sure that case doesn't matter, so the key will match characters regardless of case. This will preserve the text when the message includes capitals, since they might not be found in the key. 
