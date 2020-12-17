@@ -25,4 +25,7 @@
 7. Farewell. Commend me to thy mistress.
 
 #### Math 
-* 
+* From what we discovered book ciphers don't involve much math. They are based on the words and letters inside the book. 
+* The only math is the code or ratio of each letter. 
+Example: *Must be my convoy in the secret night* can be converted to these ratios in this order: 1:2 1:3 1:4 1:5 1:6 1:7 1:8 1:9
+
