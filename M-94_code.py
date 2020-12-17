@@ -1,4 +1,6 @@
 import random, os, sys, tkinter as tk
+from typing import Text
+
 
 
 def main():
@@ -13,8 +15,15 @@ def main():
     
     t = t.split()
 
+    plainText = ""
+
+    
+
+    
+
     #Start Gui
     labels = []
+    positions = [0] * 25
     MinusButtons = []
     PlusButtons = []
 
@@ -24,25 +33,27 @@ def main():
         number = data[1]
         cipher = data[2]
 
-        i = cipher.index(name["text"])
-        i += 1
-        if(i > 25):
-            i = 0
-        name["text"] = cipher[i]
+        positions[number] = (1+positions[number])%26
+
+        name["text"] = cipher[positions[number]]
+        updateText()
         
         
     
     def minus(data):
-        print(data)
+        
         name = data[0]
         number = data[1]
         cipher = data[2]
+        
+        positions[number] = (-1+positions[number])
 
-        i = cipher.index(name["text"])
-        i -= 1
-        if(i < 0):
-            i = 25
-        name["text"] = cipher[i]
+        if(positions[number] < 0):
+            positions[number] = 25
+
+        name["text"] = cipher[positions[number]]
+        
+        updateText()
     
     def addAll():
         for i in labels:
@@ -52,12 +63,68 @@ def main():
         for i in labels:
             minus(i)
 
+    def encrypt(pt):
+        alpha = "abcdefghijklmnopqrstuvwxyz"
+        f = ""
+        for i in range(len(pt)):
+            if(pt[i]  in alpha):
+                f += pt[i]
+        
+        pt = f
+        if(len(pt) > 25):
+            encryptEntry.delete(0, tk.END)
+            encryptEntry.insert(0,"Text is longer than 25 chars")
+            return
+        for i in range(len(pt)):
+            data = labels[i]
+            name = data[0]
+            number = data[1]
+            cipher = data[2]
+            t =cipher.find(pt[i])
+            positions[i] = t
+            name["text"] = cipher[positions[number]]
+
+        updateText()
+
+    
+
+
+        
+        
+        
+
+    def updateText():
+        out = ""
+        alpha = "abcdefghijklmnopqrstuvwxyz"
+        for i in range(len(positions)):
+            ind = t[i]
+            pos = positions[i]
+            out += ind[pos]
+            
+            
+        encryptEntry.delete(0, tk.END)
+        encryptEntry.insert(0,out)
+                
+            
+            
+
+
+
+    
+
+    
+
+
+
+
+    
+
 
     window = tk.Tk()
     
 
-    window.rowconfigure([0,1,2], minsize=25, weight=1)
-    window.columnconfigure([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24, 25], minsize=25, weight=1)
+    window.rowconfigure([0,1,2,3], minsize=25, weight=1)
+    window.columnconfigure([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25, 26], minsize=25, weight=1)
 
     Addallbtn = tk.Button(master=window, text="add all" , command=addAll, height=1,)
     Addallbtn.grid(row=2, column=26, sticky="nsew")
@@ -65,6 +132,29 @@ def main():
     Minusallbtn = tk.Button(master=window, text="Minus all" , command=minusAll, height=1,)
     Minusallbtn.grid(row=1, column=26, sticky="nsew")
 
+
+    plainText = tk.Label(master=window, text="Plain text")
+    plainText.grid(row=3, column=0, columnspan=3, sticky="nsew")
+
+    plainEntry = tk.Entry(master=window)
+    plainEntry.grid(row=3, column=3, columnspan=7, sticky="nsew")
+
+    encryptButton = tk.Button(master=window, text="encrypt Message", command=lambda: encrypt(plainEntry.get()))
+    encryptButton.grid(row=3, column=26, sticky="NSEW")
+
+    decryptButton = tk.Button(master=window, text="Decrypt Message", command=lambda: encrypt(encryptEntry.get()))
+    decryptButton.grid(row=0, column=26, sticky="NSEW")
+
+
+    encryptText = tk.Label(master=window, text="Encrypted Text")
+    encryptText.grid(row=3, column=10, columnspan=5, sticky="nsew")
+
+    encryptEntry = tk.Entry(master=window)
+    encryptEntry.grid(row=3, column=15, columnspan=7, sticky="nsew")
+
+
+
+    
 
         
     i = 0
@@ -395,7 +485,7 @@ def main():
     
 
 
-    print(labels)
+    
 
 
     
@@ -403,7 +493,7 @@ def main():
     
 
     
-
+    
     window.mainloop()
     
 
