@@ -1,4 +1,5 @@
 ###### Computer Code
+By: Sarah Sumrall and Sudeeksha Nooka
 ## [Link to a Book Cipher Decoder](https://www.boxentriq.com/code-breaking/book-cipher)
 
 # How it works: 
