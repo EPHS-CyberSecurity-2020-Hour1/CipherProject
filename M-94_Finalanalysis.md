@@ -1,5 +1,5 @@
 # Why it was stopped being used
-> It was replaced by the M-138-A.
+> It was replaced by more complex rotor machines.
 > This cipher allowed for interchanging of wheels.
 > Thus more combinations exist
 # Why was it useful
