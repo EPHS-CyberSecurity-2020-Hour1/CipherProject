@@ -5,4 +5,4 @@
    
    ## Example of Scytale Cipher
    
-   > he key is the number 6, which determines the degree of displacement. It is easy for the reader to verify that if a letter or symbol is in an X position in the plaintext (where the initial position is position 0) then the same letter will be found at position X * 6 in the ciphertext assuming that this number does not exceed the maximum number of letters that can be written on the leather. Once this limit is exceeded, the position will wrap around the beginning again but with a shift of a symbol to the right.
+   > The key is the number 6, which determines the degree of displacement. It is easy for the reader to verify that if a letter or symbol is in an X position in the plaintext (where the initial position is position 0) then the same letter will be found at position X * 6 in the ciphertext assuming that this number does not exceed the maximum number of letters that can be written on the leather. Once this limit is exceeded, the position will wrap around the beginning again but with a shift of a symbol to the right.
