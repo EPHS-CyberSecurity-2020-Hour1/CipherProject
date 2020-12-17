@@ -6,6 +6,12 @@ over, so that "E" would become "H" when encrypting, and the reverse while decryp
 likely very effective during the time period, seeing as most of Caesar's enemies were illiterate and didn't know the key yet. Breakable as it is, the cipher is 
 still being used today, albeit not for legitimate security purposes. It can be found in games, puzzles, and also newspapers.
 
+Caesar Cipher is one of the simplest ciphers made, one website that will decode and encode with this cipher is boxtentriq.com. Something that made this cipher so
+useful was how easy it was to learn it. The cipher technique was developed in 100 BC and has been used since, although many ciphers were developed years since, 
+Caesar is one of the best known. 
+
+Although years later this cipher was found to be the most "embarassing" and least secure ciphers nor is any other monoalphabetic substitution cipher.
+
 
 
 
@@ -14,3 +20,4 @@ still being used today, albeit not for legitimate security purposes. It can be f
 >Sources:
 >https://ghostvolt.com/articles/cryptography_history.html
 >https://www.secplicity.org/2017/05/25/historical-cryptography-ciphers/
+https://www.britannica.com/topic/substitution-cipher#ref1220213
