@@ -1,5 +1,5 @@
-# Scytale Cipher 
-   ## Scytale Mechanics 
+# Scytale Mechanics 
+*How does the cipher work? Demo an encryption and decryption Is it symmetric, does the same process decrypt as encrypt?*
    
    1. The ciphertext using a scytale diameter where a single winding of the leather around the baton contains exactly six letters will be as follows (note the message is padded with extra text to fill completely the leather strap).
    
