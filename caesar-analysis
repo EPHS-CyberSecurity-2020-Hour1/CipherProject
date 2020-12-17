@@ -1,1 +1,7 @@
-
+<h1>
+Mathematical Analyisis
+<h2>
+The caesar cipher is a very simple encryption method, so using a brute force tool is very effective in solving it.
+Brute force is a way of decrypting that just tries every possible key until it gets the correct one, but this becomes much harder when ciphers get more complicated.
+Because the cipher is based off of shifting the alphabet over, there is only 25 possible keys. In modern times, a brute force machine can crack that in milliseconds.
+It 
