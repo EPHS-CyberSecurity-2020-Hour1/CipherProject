@@ -1,3 +1,2 @@
 ONE TIME PAD MECHANICS:
-the One Time Pad must be completely random.
-the only way to figure out the code is to have the key that is kept very secret.
+You have to write down what random letter or numbers and then make a random key with it. The key is different every time and the letters or nubers you use are random every time.
