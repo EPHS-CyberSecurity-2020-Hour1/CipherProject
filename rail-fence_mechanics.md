@@ -5,4 +5,4 @@
   
 <h2> Demo an encryption and decryption Is it symmetric, does the same process decrypt as encrypt?
 
-<h6> It is symmetric and the same process is used to decrypt and encrypt
+<h5> It is symmetric and the same process is used to decrypt and encrypt
