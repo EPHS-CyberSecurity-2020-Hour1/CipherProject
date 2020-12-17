@@ -1,5 +1,5 @@
-# History
-  ## History of Scytale Cipher
+# History of Scytale Cipher
+*When was this cipher used? Who used it?*
   
       * Scytale was an ancient form of encryption used byu ancient and classical Greeks. 
       * It was created in the 7th century BCE.
