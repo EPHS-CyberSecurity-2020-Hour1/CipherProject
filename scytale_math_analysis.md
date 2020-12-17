@@ -5,4 +5,4 @@
 2. In order to decode without this knowledge, the scytale would imply what you would need to do to crack it, have different sized rods and brute force it.
 3. In regular text, all you would need is to put them in a list and then run a modulus to rearrange them.
 * CYBERSECURITYQX --mod 3-> CEERYYRCIQBSUTX
-* CYB ERS ECU RIT YQX ----> CEE RYY RCI QBS UTX
+* CYB ERS ECU RIT YQX ----> CEERY YRCIQ BSUTX
