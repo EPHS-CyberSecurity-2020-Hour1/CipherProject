@@ -1,1 +1,11 @@
-
+<h1>
+Mechanics
+<h2>
+The caesar cipher is argueably the one of the most simple ciphers out there. In messages, each letter is assigned to a different letter in the alphabet. 
+This is done by shifting the alphabet a certain number of places.
+For example, let's say your plaintext is 
+>ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Your cipher is 
+>UVWXYZABCDEFGHIJKLMNOPQRST 
+If you want a message to say HELLO, it would be
+encrypted as BYFFI. The "key" for caesar ciphers is the number that the letters are shifted, so in this instance the key is 6.
