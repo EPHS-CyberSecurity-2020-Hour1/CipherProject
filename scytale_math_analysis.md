@@ -6,4 +6,5 @@
 3. In regular text, all you would need is to put them in a list and then run a modulus to rearrange them.
 * CYBERSECURITYQX --mod 3-> CEERYYRCIQBSUTX
 * CYB ERS ECU RIT YQX ----> CEERY YRCIQ BSUTX
+
 ![modulus example](https://cdn.kastatic.org/ka-perseus-images/7182f3b5a4573a4846e1297388c97516550c3fba.jpg)
