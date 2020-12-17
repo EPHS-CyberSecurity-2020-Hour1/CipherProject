@@ -1,4 +1,5 @@
 ###### Mechanics
+By: Sarah Sumrall and Sudeeksha Nooka
 ## How does the cipher work?
    * main strength of a book cipher is the key
    * sender and receiver of encoded messages can agree to use any book or other publication available to both of them as the key to their cipher
