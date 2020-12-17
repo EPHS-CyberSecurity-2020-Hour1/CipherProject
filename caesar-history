@@ -6,8 +6,6 @@ over, so that "E" would become "H" when encrypting, and the reverse while decryp
 likely very effective during the time period, seeing as most of Caesar's enemies were illiterate and didn't know the key yet. Breakable as it is, the cipher is 
 still being used today, albeit not for legitimate security purposes. It can be found in games, puzzles, and also newspapers.
 
-Caesar Cipher is one of the simplest ciphers made, one website that will decode and encode with this cipher is https://www.boxentriq.com/code-breaking/caesar-cipher. 
-
 Something that made this cipher so useful was how easy it was to learn it, just like most/any monoalphabetic ciphers the cipher was just shifting it by 3 so many
 found this simple to do.
 
