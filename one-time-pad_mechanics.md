@@ -1,2 +1,2 @@
 ONE TIME PAD MECHANICS:
-You have to write down what random letter or numbers and then make a random key with it. The key is different every time and the letters or nubers you use are random every time.
+the use of a one-time pre-shared key the same size as, or longer than, the message being sent. In this technique, a plaintext is paired with a random secret key (also referred to as a one-time pad).
