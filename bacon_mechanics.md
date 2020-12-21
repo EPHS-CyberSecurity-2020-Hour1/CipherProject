@@ -1,6 +1,7 @@
 The Bacon Cipher works in a binary function. The code contains 'a' and 'b' for the whole alphabet.
 For Example, W, A, S, D = babaa, aaaaa, baaab, aaabb
 Binary Function: W = 10100, A = 0, B = 1
+# Each letter is assigned to a string of five binary digits. These could be the letters 'A' and 'B', the numbers 0 and 1 or whatever else you may desire
 
 Letter	Code	Binary
 A	aaaaa	00000
