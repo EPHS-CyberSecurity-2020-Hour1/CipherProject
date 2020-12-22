@@ -6,4 +6,4 @@
 ## Video explaination
 > https://www.youtube.com/watch?v=4H09V3Lzew8
 
-> [Mathmatics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Polybius_Cipher/Polybius_mathmatics.md)
+> [Mathmatics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/Polybius_mathmatics.md)
