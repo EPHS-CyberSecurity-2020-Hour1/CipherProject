@@ -26,7 +26,7 @@ Your final presentation should be given to the class as a github repo with visua
 ### Possible Ciphers:
 - Caesar Cipher
 - Transposition Cipher
-- [Substitution Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/substitution/substitution_code.md)
+- [Substitution Cipher](substitution_history.md)
 - Multiplicative Cipher
 - Affine Cipher
 - Vigenere Cipher
