@@ -5,5 +5,5 @@
 > If you know how the Polybius cipher is setup then it is pretty easy to decode. You just match the numbers with the letters and decode the message.
 ## Video explaination
 > https://www.youtube.com/watch?v=4H09V3Lzew8
-### Link to Mathmatics
+
 > [Mathmatics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Polybius_Cipher/Polybius_mathmatics.md)
