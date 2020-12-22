@@ -8,4 +8,4 @@ These were sequences of 'A's and 'B's e.g. the letter 'D' was replaced by 'aaabb
 The Bacon's Cipher was used for hiding secrets in messages
 
 
-[Link To Mechanics!] https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Bacon's-Cipher/bacon_mechanics.md
+[Link To Mechanics!](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Bacon's-Cipher/bacon_mechanics.md)
