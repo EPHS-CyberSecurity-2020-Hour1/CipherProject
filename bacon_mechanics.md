@@ -30,3 +30,6 @@ W	babaa	10100
 X	babab	10101
 Y	babba	10110
 Z	babbb	10111
+
+
+https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Bacon's-Cipher/bacon_mathematicalanalysis.md
