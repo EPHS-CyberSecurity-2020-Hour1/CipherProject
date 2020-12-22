@@ -1,5 +1,6 @@
 # CipherProject
 
+[link to first page](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/substitution/substitution_code.md)
 
 #### Historical context
   When was this cipher used? Who used it?
@@ -24,21 +25,22 @@ Your final presentation should be given to the class as a github repo with visua
 
 ### Possible Ciphers:
 - [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
-- [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/transposition/transposition_history.md)
+- [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/transposition_history.md)
 - Substitution Cipher
 - Multiplicative Cipher
 - Affine Cipher
 - Vigenere Cipher
 - [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
-- Polybius Square
+- [Polybius Square](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/Polybius_history.md)
 - [Four Square Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_history.md)
-- Rail fence cipher
+- [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - [Atbash Cipher](atbash_history.md)
 - Scytale Cipher
 - Bacon's Cipher
 - [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
 - Pigpen Cipher
-- Playfair Cipher
+- [Playfair Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_historicalcontext.md)
 - [M-94 Cipher](M-94_HistoricalContext.md)
 - Nihilist Cipher
 - Hill Cipher
+
