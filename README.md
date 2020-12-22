@@ -30,7 +30,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Affine Cipher
 - Vigenere Cipher
 - One-Time Pad
-- Polybius Square
+- [Polybius Square](
 - Four Square Cipher
 - Rail fence cipher
 - Atbash Cipher
