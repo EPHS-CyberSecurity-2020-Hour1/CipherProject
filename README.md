@@ -27,7 +27,7 @@ Your final presentation should be given to the class as a github repo with visua
 - [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
 - [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/transposition_history.md)
 - [Substitution Cipher](substitution_history.md)
-- ~~Multiplicative Cipher
+- ~~Multiplicative Cipher~~
 - ~~Affine Cipher~~
 - ~~Vigenere Cipher~~
 - [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
