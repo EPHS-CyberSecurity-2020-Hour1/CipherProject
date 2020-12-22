@@ -23,8 +23,6 @@
 Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
 
 ### Possible Ciphers:
-- Caesar Cipher
-- [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/transposition/transposition_history.md)
 - [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
 - Transposition Cipher
 - Substitution Cipher
@@ -37,7 +35,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Rail fence cipher
 - [Atbash Cipher](atbash_history.md)
 - Scytale Cipher
-- [Bacon's Cipher] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/bacon_history.md)
+- Bacon's Cipher
 - [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
 - Pigpen Cipher
 - Playfair Cipher
