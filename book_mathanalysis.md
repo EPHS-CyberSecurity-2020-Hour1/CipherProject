@@ -31,3 +31,5 @@ Example: *Must be my convoy in the secret night* can be converted to these ratio
 
 #### Sources
 https://shakespeare.folger.edu/downloads/pdf/romeo-and-juliet_PDF_FolgerShakespeare.pdf 
+
+### [Next Page: Computer Code](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_compcode.md)
