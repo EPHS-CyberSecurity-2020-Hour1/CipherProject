@@ -11,7 +11,7 @@
 ### If you have prior knowledge of cracking ciphers, or a lot of free time, you could probably crack this by hand. However, when using a software to help you, you will most likely for sure crack the cipher.
 
 
-[Next Page]{https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_mechanics.md}
+[Next Page](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_mechanics.md)
 
 ## Sources
 [NKU](https://www.nku.edu/~christensen/092mat483%20hill%20cipher.pdf)
