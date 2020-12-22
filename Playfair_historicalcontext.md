@@ -7,4 +7,5 @@ http://practicalcryptography.com/ciphers/playfair-cipher/#:~:text=The%20Playfair
 https://www.geeksforgeeks.org/playfair-cipher-with-examples/#:~:text=In%20playfair%20cipher%20unlike%20traditional,Australians%20during%20World%20War%20II.
 
 [Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_mechanics.md)
+
 [Mathmatical Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_mathematicalanalysis.md)
