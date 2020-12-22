@@ -8,3 +8,4 @@
 >Take 25 characters form the encrypted message and line up the dials so that it reads the message.
 >Then look around the dial until you find the message in english.
 # Here is a link to an excellent youtube video explaining it go to time stamp 4:02 https://youtu.be/D3QKNM1oWIA
+## [Math](M-94_Math.md)
