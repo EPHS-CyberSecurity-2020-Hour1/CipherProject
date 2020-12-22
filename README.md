@@ -1,6 +1,6 @@
 # CipherProject
 
-[link to first page](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/substitution/substitution_code.md)
+
 
 #### Historical context
   When was this cipher used? Who used it?
@@ -26,7 +26,7 @@ Your final presentation should be given to the class as a github repo with visua
 ### Possible Ciphers:
 - [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
 - [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/transposition_history.md)
-- Substitution Cipher
+- [Substitution Cipher](substitution_history.md)
 - Multiplicative Cipher
 - Affine Cipher
 - Vigenere Cipher
