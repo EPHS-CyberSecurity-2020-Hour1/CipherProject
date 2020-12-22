@@ -27,9 +27,6 @@ Your final presentation should be given to the class as a github repo with visua
 - [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
 - [Transposition Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/transposition_history.md)
 - [Substitution Cipher](substitution_history.md)
-- ~~Multiplicative Cipher~~
-- ~~Affine Cipher~~
-- ~~Vigenere Cipher~~
 - [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
 - [Polybius Square](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/Polybius_history.md)
 - [Four Square Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_history.md)
@@ -38,8 +35,11 @@ Your final presentation should be given to the class as a github repo with visua
 - [Scytale Cipher](scytale_history.md)
 - [Bacon's Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/bacon_history.md)
 - [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
-- ~~Pigpen Cipher~~
 - [Playfair Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_historicalcontext.md)
 - [M-94 Cipher](M-94_HistoricalContext.md)
-- ~~Nihilist Cipher~~
 - [Hill Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_history.md)
+- ~~Nihilist Cipher~~
+- ~~Multiplicative Cipher~~
+- ~~Affine Cipher~~
+- ~~Vigenere Cipher~~
+- ~~Pigpen Cipher~~
