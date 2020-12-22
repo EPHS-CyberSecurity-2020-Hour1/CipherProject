@@ -8,3 +8,4 @@
       * It was simple enough for the enemy's to decipher it. 
   
 ![Scytale](https://toebes.com/Flynns/image/Flynns-13-Dec-1924-Scryer.png)
+[Mechanics](scytale_mechanics.md)
