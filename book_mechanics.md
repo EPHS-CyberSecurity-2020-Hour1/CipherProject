@@ -29,3 +29,5 @@ By: Sarah Sumrall and Sudeeksha Nooka
 
 ## Reference: 
 https://sites.google.com/site/brutenorhuman/book-cipher 
+
+### [Next Page: Math Analysis](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_mathanalysis.md)
