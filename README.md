@@ -36,7 +36,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Atbash Cipher
 - Scytale Cipher
 - Bacon's Cipher
-- Book Cipher
+- [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
 - Pigpen Cipher
 - Playfair Cipher
 - M-94 Cipher
