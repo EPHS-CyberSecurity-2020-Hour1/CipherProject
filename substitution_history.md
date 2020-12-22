@@ -6,3 +6,6 @@ It includes a large range of ciphers, from the Alberti to the Playfair.
 
 
 ![example](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ROT13.png/300px-ROT13.png)
+
+
+[Mechanics](substitution_mechanics.md)
