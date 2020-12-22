@@ -32,7 +32,7 @@ Your final presentation should be given to the class as a github repo with visua
 - One-Time Pad
 - Polybius Square
 - Four Square Cipher
-- Rail fence cipher
+- [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - Atbash Cipher
 - Scytale Cipher
 - Bacon's Cipher
