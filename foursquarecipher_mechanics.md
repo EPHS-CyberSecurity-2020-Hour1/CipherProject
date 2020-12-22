@@ -24,3 +24,5 @@ Ciphertext: FY GM KY HO BX MF KK KI MD
 
 **Source**
 https://en.wikipedia.org/wiki/Four-square_cipher
+
+[Link to computer code] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_ComputerCode.md)
