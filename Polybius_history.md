@@ -4,5 +4,4 @@
 ## Who used this cipher?
 > This cipher was mainly used in the Greek times after Polybius created it, but it was also used during the vietnam war. During the vietnam war, prisoners would "tap" out the numbers instead of writing the numbers in order to talk to each other without the guards knowing. The first number of taps was for the row number, the second number of taps was for the column number.
 
-### Link to Mechanics
 > [Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Polybius_Cipher/Polybius_mechanics.md)
