@@ -29,7 +29,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Multiplicative Cipher
 - Affine Cipher
 - Vigenere Cipher
-- [One-Time Pad] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
+- [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
 - Polybius Square
 - Four Square Cipher
 - Rail fence cipher
