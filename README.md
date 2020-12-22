@@ -1,5 +1,6 @@
 # CipherProject
 
+[link to first page](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/substitution/substitution_code.md)
 
 #### Historical context
   When was this cipher used? Who used it?
