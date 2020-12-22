@@ -14,3 +14,5 @@ S | S | O | U | R | C | E | Z | Z
 ---------------------------------
 
 The encrypted message will read: WIESHNMSEGEONWMUDABRRTECIERENRIZKRTZ
+
+next page [Math](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/transposition/transposition_math.md)
