@@ -5,3 +5,5 @@ The Fairplay Cipher was the first practical digraph substitution cipher. The sch
 
 Resorces- https://www.geeksforgeeks.org/playfair-cipher-with-examples/ http://rumkin.com/tools/cipher/playfair.php#:~:text=The%20Playfair%20cipher%20is%20a,that%20is%20to%20be%20encoded https://www.dcode.fr/playfair-cipher
 
+[Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_mechanics.md)
+
