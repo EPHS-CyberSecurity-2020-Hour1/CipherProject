@@ -13,3 +13,5 @@
 ###### Sources
 https://derekbruff.org/blogs/fywscrypto/historical-crypto/whats-in-a-book-a-brief-history-of-book-ciphers/
 https://en.wikipedia.org/wiki/Book_cipher
+
+### [Next Page: Mechanics](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_mechanics.md)
