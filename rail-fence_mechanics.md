@@ -10,3 +10,4 @@
 <h2> Is it symmetric, does the same process decrypt as encrypt?
 
 <h5> It is symmetric and the same process is used to decrypt and encrypt
+[Math Analysis](rail-fence_mathanalysis.md)
