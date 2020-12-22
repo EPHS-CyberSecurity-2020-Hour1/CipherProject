@@ -36,7 +36,7 @@ Your final presentation should be given to the class as a github repo with visua
 - [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - [Atbash Cipher](atbash_history.md)
 - [Scytale Cipher](scytale_history.md)
-- Bacon's Cipher
+- [Bacon's Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/bacon_history.md)
 - [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
 - Pigpen Cipher
 - [Playfair Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_historicalcontext.md)

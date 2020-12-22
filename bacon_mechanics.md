@@ -32,4 +32,4 @@ Y	babba	10110
 Z	babbb	10111
 
 
-[Link to Mathematical Analysis!] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Bacon's-Cipher/bacon_mathematicalanalysis.md)
+[Link to Mathematical Analysis!](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Bacon's-Cipher/bacon_mathematicalanalysis.md)
