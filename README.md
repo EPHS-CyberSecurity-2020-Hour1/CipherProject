@@ -31,7 +31,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Affine Cipher
 - Vigenere Cipher
 - [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
-- Polybius Square
+- [Polybius Square](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/Polybius_history.md)
 - [Four Square Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_history.md)
 - [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - [Atbash Cipher](atbash_history.md)
