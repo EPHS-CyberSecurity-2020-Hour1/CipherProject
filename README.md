@@ -33,7 +33,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Polybius Square
 - Four Square Cipher
 - Rail fence cipher
-- Atbash Cipher
+- [Atbash Cipher](atbash_history.md)
 - Scytale Cipher
 - Bacon's Cipher
 - Book Cipher
