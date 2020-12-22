@@ -10,3 +10,5 @@
 ### Other info
 * Its name was CSP 488 when it was used the army and navy
 * It was used for about 20 years until it was replaced by a more complex electromechanical rotor machine called the M-209
+
+###[Mechanics](M-94_Mechanics.md)
