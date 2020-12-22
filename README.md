@@ -35,7 +35,7 @@ Your final presentation should be given to the class as a github repo with visua
 - [Four Square Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_history.md)
 - [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - [Atbash Cipher](atbash_history.md)
-- Scytale Cipher
+- [Scytale Cipher](scytale_history.md)
 - Bacon's Cipher
 - [Book Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/BookCipher/book_history.md)
 - Pigpen Cipher
