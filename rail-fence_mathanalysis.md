@@ -10,3 +10,4 @@ lines of the rail fence
  
 <h2> What is the mathematical complexity to solve the code?
   <h5> The difficulty to solve the code depends on the lines needed to decrypt. The concept is fairly simple though. 
+[Computer Code](rail-fence_computercode.md)
