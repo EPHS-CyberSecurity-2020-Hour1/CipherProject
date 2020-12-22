@@ -34,7 +34,7 @@ Your final presentation should be given to the class as a github repo with visua
 - Four Square Cipher
 - Rail fence cipher
 - Atbash Cipher
-- Scytale Cipher
+- [Scytale Cipher](scytale_history.md)
 - Bacon's Cipher
 - Book Cipher
 - Pigpen Cipher
