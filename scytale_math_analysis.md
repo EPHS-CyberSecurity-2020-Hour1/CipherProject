@@ -8,3 +8,5 @@
 * CYB ERS ECU RIT YQX ----> CEERY YRCIQ BSUTX
 
 ![modulus example](https://cdn.kastatic.org/ka-perseus-images/7182f3b5a4573a4846e1297388c97516550c3fba.jpg)
+
+[Computer Code](scytale_comp_code.md)
