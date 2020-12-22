@@ -33,7 +33,7 @@ Your final presentation should be given to the class as a github repo with visua
 - [One-Time Pad](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/one-time-pad/one-time-pad_history.md)
 - Polybius Square
 - [Four Square Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_history.md)
-- Rail fence cipher
+- [Rail fence Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/rail-fence/rail-fence_history.md)
 - [Atbash Cipher](atbash_history.md)
 - Scytale Cipher
 - Bacon's Cipher
