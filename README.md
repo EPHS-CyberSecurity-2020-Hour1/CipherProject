@@ -42,5 +42,4 @@ Your final presentation should be given to the class as a github repo with visua
 - [Playfair Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Playfaircipher.MD/Playfair_historicalcontext.md)
 - [M-94 Cipher](M-94_HistoricalContext.md)
 - Nihilist Cipher
-- Hill Cipher
-
+- [Hill Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_history.md)
