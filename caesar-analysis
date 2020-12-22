@@ -1,0 +1,11 @@
+<h1>
+Mathematical Analyisis
+<h2>
+The caesar cipher is a very simple encryption method, so using a brute force tool is effective in solving it.
+Brute force is a way of decrypting that tries every possible key until it gets the correct one, but this becomes much harder when ciphers get complicated.
+Because the cipher is based off of shifting the alphabet over, there is only 25 possible keys. A brute force mechanism can crack this in milliseconds.
+If you didn't have the key, the most straightforward method would be using a brute force machine or doing it by hand. If you're wondering why you can't make this
+cipher harder to crack by simply scrambling the alphabet, you can. But then it's no longer considered a caesar cipher.
+Overall, the mathematical complexity of this cipher is extremely low, and most people could understand how it works.
+Next page below:
+>https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-code
