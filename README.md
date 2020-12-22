@@ -39,6 +39,6 @@ Your final presentation should be given to the class as a github repo with visua
 - Book Cipher
 - Pigpen Cipher
 - Playfair Cipher
-- [M-94 Cipher](M-94_historicalAnalysis)
+- [M-94 Cipher](M-94_HistoricalContext)
 - Nihilist Cipher
 - Hill Cipher
