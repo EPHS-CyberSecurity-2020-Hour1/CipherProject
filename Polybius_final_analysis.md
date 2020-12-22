@@ -4,4 +4,4 @@
 ## Similar Cipher
 >A very similar code is the Ceasar cipher which is a type of substitution cipher where all the letters are moved from to the left or right.
 
->[README](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/main/README.md)
+>[README](README.md)
