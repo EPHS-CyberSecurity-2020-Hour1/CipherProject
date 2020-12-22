@@ -7,6 +7,6 @@
 * For what I have found this cipher was not commonly used due to it's complexity with it's possible combinations. 
 
 
-[Next Page] {https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_math.md}
+[Next Page]{https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/hill/hill_math.md}
 
 [Wikipedia Source](https://en.wikipedia.org/wiki/Hill_cipher)
