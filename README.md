@@ -23,14 +23,14 @@
 Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
 
 ### Possible Ciphers:
-- Caesar Cipher https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history
+- [Caesar Cipher](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/caesar_cipher/caesar-history)
 - Transposition Cipher
 - Substitution Cipher
 - Multiplicative Cipher
 - Affine Cipher
 - Vigenere Cipher
 - One-Time Pad
-- [Polybius Square](https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/Polybius_Cipher/Polybius_history.md)
+- Polybius Square
 - Four Square Cipher
 - Rail fence cipher
 - [Atbash Cipher](atbash_history.md)
