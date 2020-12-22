@@ -25,4 +25,4 @@ Ciphertext: FY GM KY HO BX MF KK KI MD
 **Source**
 https://en.wikipedia.org/wiki/Four-square_cipher
 
-[Link to Math Analysis!] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_math_analysis.md)
+[Link to Math Analysis!] (https://github.com/EPHS-CyberSecurity-2020-Hour1/CipherProject/blob/foursquarecipher/foursquarecipher_MathAnalysis.md)
